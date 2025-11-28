@@ -10,5 +10,4 @@ Copy đè thư mục Android và buộc dừng ứng dụng thủ công (để t
 Sau đó bạn tha hồ sử dụng các kho ứng dụng có sẵn.
 
 Tác giả:
-Nguyễn Đức Thăng 0374201353
-Donate 109004940284 Vietinbank
+Nguyễn Đức Thăng | 0374201353 | Donate 109004940284 Vietinbank
