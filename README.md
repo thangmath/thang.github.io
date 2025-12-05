@@ -14,7 +14,7 @@ Trang lưu sẵn data cấu hình gọn nhẹ của Kodi, có thể nhanh chóng
 - Để tuỳ biến các chữ trên giao diện, bạn hãy thử tự chỉnh sửa file resource.language.vi_vn.zip xem nhé!
 # Cài đặt danh sách phát cho SportsTV & Monplayer
 - Truy cập trang chủ [thangmath.github.io](https://thangmath.github.io) để copy từng danh sách vào SportsTV hoặc mở với Monplayer.
-> Link tải nhanh SportsTV [sssss.yn.lt](https://sssss.yn.lt). Link list [tiny.cc/spds](https://tiny.cc/spds) hoặc [tiny.cc/spds1](https://tiny.cc/spds1) (not 18+)
+> Link tải nhanh SportsTV [sssss.yn.lt](https://sssss.yn.lt) | [tiny.cc/sptv](https://tiny.cc/sptv). Link list [tiny.cc/llll](https://tiny.cc/llll) hoặc [tiny.cc/iiii](https://tiny.cc/iiii) (not 18+)
 - Để cài các ứng dụng cho TV, bạn cần tải trên CH Play ứng dụng web nào đó như TV Bro, Downloader,...
 - Rồi thêm một trong các link sau vào kho yêu thích của Downloader để tải các ứng dụng cần thiết:
 > [tiny.cc/uukkk](https://tiny.cc/uukkk), [uukkk.yn.lt](https://uukkk.yn.lt), [uukkk.mw.lt](https://uukkk.mw.lt), [uukkk.jw.lt](https://uukkk.jw.lt)
